@@ -2,8 +2,8 @@ services:
   postgres:
     image: postgres:17-alpine
     environment:
-      POSTGRES_USER: myuser
-      POSTGRES_PASSWORD: mypassword
-      POSTGRES_DB: mydatabase
+      POSTGRES_USER: virtualthread
+      POSTGRES_PASSWORD: insecurepassword
+      POSTGRES_DB: virtualthread
     ports:
       - '15432:5432'
