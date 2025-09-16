@@ -1,10 +1,10 @@
-package sh.jfm.virtualthreadreactive;
+package sh.jfm.virtualthread;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VirtualthreadreactiveApplicationTests {
+class VirtualThreadApplicationTests {
 
 	@Test
 	void contextLoads() {
