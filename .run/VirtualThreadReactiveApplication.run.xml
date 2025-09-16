@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="VirtualThreadReactiveApplication" type="SpringBootApplicationConfigurationType"
+                   factoryName="Spring Boot" nameIsGenerated="true">
+        <module name="virtualthreadreactive"/>
+        <option name="SPRING_BOOT_MAIN_CLASS" value="sh.jfm.virtualthreadreactive.VirtualThreadReactiveApplication"/>
+        <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/virtualthreadreactive"/>
+        <extension name="coverage">
+            <pattern>
+                <option name="PATTERN" value="sh.jfm.virtualthreadreactive.*"/>
+                <option name="ENABLED" value="true"/>
+            </pattern>
+        </extension>
+        <method v="2">
+            <option name="Make" enabled="true"/>
+        </method>
+    </configuration>
+</component>

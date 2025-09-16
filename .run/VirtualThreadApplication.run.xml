@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="VirtualThreadApplication" type="SpringBootApplicationConfigurationType"
+                   factoryName="Spring Boot" nameIsGenerated="true">
+        <module name="virtualthread"/>
+        <option name="SPRING_BOOT_MAIN_CLASS" value="sh.jfm.virtualthread.VirtualThreadApplication"/>
+        <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/virtualthread"/>
+        <method v="2">
+            <option name="Make" enabled="true"/>
+        </method>
+    </configuration>
+</component>
