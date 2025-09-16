@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: reactive
+      POSTGRES_PASSWORD: insecurepassword
+      POSTGRES_DB: reactive
+    ports:
+      - '25432:5432'
