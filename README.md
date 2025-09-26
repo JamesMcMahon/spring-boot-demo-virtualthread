@@ -10,3 +10,4 @@ Repo is still under construction
 * [Brian Goetz on the future of Java reactive programming](https://www.youtube.com/watch?v=9si7gK94gLo&t=1145s)
 * [Do Java 21 virtual threads address the main reason to switch to reactive single-thread frameworks?](https://stackoverflow.com/questions/78318131/do-java-21-virtual-threads-address-the-main-reason-to-switch-to-reactive-single)
 * [Demystifying Virtual Thread Performance](https://dzone.com/articles/demystifying-virtual-thread-performance-unveiling)
+* [JEP 506: Scoped Values - replacing ThreadLocal](https://openjdk.org/jeps/506)
